@@ -58,3 +58,47 @@ type your keyboard Ctrl+x
 y 
 now enter key to save the file
 ```
+
+* **To run a local server on your phone you need to install php server for that type the command.**
+
+```
+$cd
+$nano index.html
+```
+
+* **Create your own script or if you want you can copy and paste my script**
+
+```
+<!DOCTYPE html>
+<html>
+<body>
+<br>
+<center>
+<img height="100" width="100" src=/dark.png />
+<p class="Download" > <i><b>DarkWeb</b></i></P>
+<h1 style="color: blue;"> Subscribe my Channel</h1>
+</center>
+<style>
+body {
+background-color: black;
+}
+.Download {
+border: none;
+color: red;
+padding: 12px 30px;
+font-size: 100px;
+}
+</style>
+</body>
+</html>
+```
+And save it
+
+* **open a new terminal and type the command**
+
+```
+pkg install php
+php -S 127.0.0.1:8080
+```
+
+
