@@ -6,3 +6,11 @@ Its totally hosted through your computer thats mean whenever you want you can cl
 Note if your computer is shutdown than automatically your site will stop.
 
 # Follow the step :-
+
+* **Install Termux app and open a new terminal and follow the command below.**
+
+```
+$apt update 
+$apt upgrade
+```
+
