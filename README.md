@@ -32,3 +32,7 @@ $cd usr/etc/tor
 $nano torrc
 ```
 
+* **scroll down and this message remove the hash tag before the HiddenserviceDir and set you path.**
+
+
+
