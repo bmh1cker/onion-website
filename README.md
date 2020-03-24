@@ -54,9 +54,9 @@ HiddenServicePort 80 127.0.0.1:8080
 ```
 
 ```
-type your keyboard Ctrl+x 
-y 
-now enter key to save the file
+1- type your keyboard Ctrl+x 
+2- y 
+3- now enter key to save the file
 ```
 
 * **To run a local server on your phone you need to install php server for that type the command.**
@@ -97,8 +97,33 @@ And save it
 * **open a new terminal and type the command**
 
 ```
-pkg install php
-php -S 127.0.0.1:8080
+$pkg install php
+$php -S 127.0.0.1:8080
 ```
 
+* **open a new terminal and type the command**
 
+```
+$tor
+```
+
+* **open a new terminal here you will get your hostname and key to get hostname follow this command**
+
+```
+$cd
+$cat hostname
+```
+
+* **here you will get your personal Darkweb site Url like**
+
+```
+Caution
+This link will not open on chrome browser
+its only open on tor browser for Windows, mac etc.
+Orbot and Orfox browser for android.
+```
+
+you can use any severver like php, apache, python but i recommend to use php because it's easy to use .
+
+Thanks for learning.......
+# By (BM Hacker)
