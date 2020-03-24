@@ -14,3 +14,21 @@ $apt update
 $apt upgrade
 ```
 
+* **To install tor follow the command**
+
+```
+$pkg install tor
+```
+
+# How to change tor configuration file
+
+* **After install the tor you need to some change on tor configuration file**
+
+```
+$cd
+$pkg install nano
+$cd ..
+$cd usr/etc/tor
+$nano torrc
+```
+
