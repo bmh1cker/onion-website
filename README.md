@@ -35,4 +35,26 @@ $nano torrc
 * **scroll down and this message remove the hash tag before the HiddenserviceDir and set you path.**
 
 
+```
+## Once you have configured a hidden service, you can look at the
+## contents of the file ".../hidden_service/hostname" for the address
+## to tell people.
+##
+## HiddenServicePort x y:z says to redirect requests on port x to the
+## address y:z.
 
+HiddenServiceDir /data/data/com.termux/files/home
+HiddenServicePort 80 127.0.0.1:8080
+
+#HiddenServiceDir /data/data/com.termux/files/usr/var/lib/tor/other_hidden_service/
+#HiddenServicePort 80 127.0.0.1:80
+#HiddenServicePort 22 127.0.0.1:22
+
+################ This section is just for relays #####################
+```
+
+```
+type your keyboard Ctrl+x 
+y 
+now enter key to save the file
+```
