@@ -5,6 +5,9 @@ if  you want to create your own DarkWeb site you should know this important thin
 Its totally hosted through your computer thats mean whenever you want you can close your site or run your site.
 Note if your computer is shutdown than automatically your site will stop.
 
+# Setup Video :-
+[![YouTube](https://img.youtube.com/vi/BM40sdhlams/0.jpg)](https://youtu.be/BM40sdhlams)
+
 # Follow the step :-
 
 * **Install Termux app and open a new terminal and follow the command below.**
